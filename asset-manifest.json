@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/prpnews/static/css/main.d8713bef.chunk.css",
-    "main.js": "/prpnews/static/js/main.a7d9a242.chunk.js",
-    "main.js.map": "/prpnews/static/js/main.a7d9a242.chunk.js.map",
+    "main.js": "/prpnews/static/js/main.06742585.chunk.js",
+    "main.js.map": "/prpnews/static/js/main.06742585.chunk.js.map",
     "runtime-main.js": "/prpnews/static/js/runtime-main.b5970268.js",
     "runtime-main.js.map": "/prpnews/static/js/runtime-main.b5970268.js.map",
-    "static/js/2.2ad1c45a.chunk.js": "/prpnews/static/js/2.2ad1c45a.chunk.js",
-    "static/js/2.2ad1c45a.chunk.js.map": "/prpnews/static/js/2.2ad1c45a.chunk.js.map",
+    "static/js/2.5413ca4f.chunk.js": "/prpnews/static/js/2.5413ca4f.chunk.js",
+    "static/js/2.5413ca4f.chunk.js.map": "/prpnews/static/js/2.5413ca4f.chunk.js.map",
     "index.html": "/prpnews/index.html",
     "static/css/main.d8713bef.chunk.css.map": "/prpnews/static/css/main.d8713bef.chunk.css.map",
-    "static/js/2.2ad1c45a.chunk.js.LICENSE.txt": "/prpnews/static/js/2.2ad1c45a.chunk.js.LICENSE.txt",
+    "static/js/2.5413ca4f.chunk.js.LICENSE.txt": "/prpnews/static/js/2.5413ca4f.chunk.js.LICENSE.txt",
     "static/media/home.css": "/prpnews/static/media/banner.83138f93.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5970268.js",
-    "static/js/2.2ad1c45a.chunk.js",
+    "static/js/2.5413ca4f.chunk.js",
     "static/css/main.d8713bef.chunk.css",
-    "static/js/main.a7d9a242.chunk.js"
+    "static/js/main.06742585.chunk.js"
   ]
 }
