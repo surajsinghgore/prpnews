@@ -1,7 +1,13 @@
 import '../css/home.css';
 import {TiWeatherPartlySunny} from "react-icons/ti";
+import { useState } from 'react';
 export default function Time() {
-    
+    const [times,setTimes]=useState();
+    const [days,setDays]=useState();
+    const [dates,setDates]=useState();
+    const [yearsss,setYearsss]=useState();
+    const [yearss,setYearss]=useState();
+    const [milli,setMilli]=useState();
     function clock() {
         let d = new Date();
     let date=d.getDate();
@@ -47,17 +53,21 @@ export default function Time() {
     month[10] = "November";
     month[11] = "December";
     let years = month[d.getMonth()];
-    let top=document.getElementById('tops');
-    top.innerHTML=`<p>${day} ${date}  ${years} ${year} / ${time} : ${millisecond}</p>`;
-  
-    
+
+    setTimes(time)
+    setMilli(millisecond)
+setDays(day)
+setDates(date);
+setYearss(year)
+setYearsss(years)
+
         }
     setInterval(clock, 1000);
     return (
         <div className="time">
          <span>INDIA,IN</span><TiWeatherPartlySunny id="icons"/>
             <div className="top" id="tops">
-
+<p>{days} {dates} {yearsss} {yearss} / {times}: {milli}</p>
        
                </div>
         </div>
