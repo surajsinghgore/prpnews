@@ -110,7 +110,7 @@ ul li a.active {
        
         position: absolute;
         width: 100%;
-        height: calc(auto - 71px);
+        height: calc(100vh - 71px);
         background-color: #18283B;
         left: 0;
        top: 1%;

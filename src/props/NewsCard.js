@@ -2,7 +2,7 @@ import { useEffect, useState, useRef } from "react";
 import "../css/newscard.css";
 export default function NewsCard(props) {
 
- let api = process.env.REACT_APP_API;
+ let api = 'bbde160bb82449338b4c5bc1fe25569f';
   const [datas, setDatas] = useState([]);
 const[pageNum,setPageNum]=useState(1);
 const[loading,setLoading]=useState(false);
