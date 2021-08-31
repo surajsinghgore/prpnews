@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/prpnews/static/css/main.d8713bef.chunk.css",
-    "main.js": "/prpnews/static/js/main.c1cd0c74.chunk.js",
-    "main.js.map": "/prpnews/static/js/main.c1cd0c74.chunk.js.map",
+    "main.js": "/prpnews/static/js/main.a7d9a242.chunk.js",
+    "main.js.map": "/prpnews/static/js/main.a7d9a242.chunk.js.map",
     "runtime-main.js": "/prpnews/static/js/runtime-main.b5970268.js",
     "runtime-main.js.map": "/prpnews/static/js/runtime-main.b5970268.js.map",
     "static/js/2.2ad1c45a.chunk.js": "/prpnews/static/js/2.2ad1c45a.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b5970268.js",
     "static/js/2.2ad1c45a.chunk.js",
     "static/css/main.d8713bef.chunk.css",
-    "static/js/main.c1cd0c74.chunk.js"
+    "static/js/main.a7d9a242.chunk.js"
   ]
 }
